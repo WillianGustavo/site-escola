@@ -1,4 +1,4 @@
-.cabeçalho{background-color: #fc926ca1; color: rgba(230, 102, 102, 0.514); display: flex; justify-content: space-around;}
+.cabeçalho{background-color: #161515d0; color: rgba(248, 243, 240, 0.76); display: flex; justify-content: space-around;}
 .imagem-logo{width: 200px;}
 .cabeçalho-lista{display: inline-block; margin: 0 16px;}
-.site{background-color:antiquewhite; color:beige (131, 92, 48);}
+.site{background-color:rgba(253, 253, 253, 0.788); color:beige (131, 92, 48);}
